@@ -22,7 +22,20 @@ Blockchain & Smart‑Contract engineer passionate about teaching web3 and buildi
 - **Solidity** (0.8.x) — Upgradeable contracts, ReentrancyGuard, UUPS  
 - **Foundry** (forge, cast) — Tests, fuzzing, scripts, coverage  
 - **TypeScript** & **JavaScript** — Front‑end integration (Next.js, React, Wagmi)  
-- **Rust** / **Anchor** — Solana on‑chain programs  
+- **Rust** / **Anchor** — Solana on‑chain programs
+  
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 </details>
 
 <details>
