@@ -39,7 +39,6 @@ Blockchain & Smart‑Contract engineer passionate about teaching web3 and buildi
 
 - **Slither** & **MythX** — static analysis & auditing  
 - **Hardhat** & **Truffle** — alternative dev environments  
-- **ESLint**, **Prettier**, **Solhint** — linting & formatting  
 </details>
 
 ---
@@ -49,8 +48,8 @@ Blockchain & Smart‑Contract engineer passionate about teaching web3 and buildi
 | Repo                                                     | Description                                                                                   |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | [chiliz-betting](https://github.com/Helder77270/chiliz-betting) | UUPS‑upgradeable “SportsBet” and “MatchHub” factory on Chiliz / Socios testnet                  |
-| [[xrpl-escrow-ui](https://github.com/Helder77270/XRPL-training) | React/Next.js dApp to connect XRPL wallet, create & manage escrows (with TypeScript & Tailwind) |
-| [Mini Marketplace for teaching Solidity](https://github.com/Helder77270/DakarMarket)) | Forge tests & sample contracts demonstrating reentrancy, overflow/underflow protection, custom errors |
+| [xrpl-escrow-ui](https://github.com/Helder77270/XRPL-training) | React/Next.js dApp to connect XRPL wallet, create & manage escrows (with TypeScript & Tailwind) |
+| [Mini Marketplace for teaching Solidity](https://github.com/Helder77270/DakarMarket) | Forge tests & sample contracts demonstrating reentrancy, overflow/underflow protection, custom errors |
 | [Trackin-](https://github.com/Helder77270/Trackin-) | Rust/Anchor program for minting and metadata on Solana via Metaplex Token Metadata v3         |
 
 ---
