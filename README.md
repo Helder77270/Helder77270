@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Helder ([@Helder77270](https://github.com/Helder77270))
 
-Blockchain & Smart‑Contract engineer passionate about building decentralized finance (DeFi) and Web3 applications.
+Blockchain & Smart‑Contract engineer passionate about teaching web3 and building it !.
 
 ---
 
@@ -8,7 +8,7 @@ Blockchain & Smart‑Contract engineer passionate about building decentralized f
 
 - 🔭 I’m currently developing upgradeable UUPS/ERC‑1967 betting hubs (`MatchHub`, `SportsBet`) in **Solidity** using **Foundry**.  
 - 🌱 I’m diving deep into **XRPL** (Escrow, Wallet integration) with **TypeScript** & **React**.  
-- 👯 I’m open to collaborating on **Chainlink VRF** random‑number projects and **DAO governance** tools.  
+- 👯 I’m open to collaborating on cool & sustainable projects  
 - 💬 Ask me about on‑chain randomness, UUPS proxies, or how to fuzz‑test with Forge.  
 - 📫 How to reach me: via GitHub Issues or Discussions on my repos.  
 
@@ -63,7 +63,7 @@ Blockchain & Smart‑Contract engineer passionate about building decentralized f
 
 ## 🤝 Let’s Connect
 
-- 🐦 [Twitter](https://twitter.com/Helder77270)  
+- 🐦 [Twitter]([https://twitter.com/Helder77270](https://x.com/ChilizTV))  
 - 🌐 [Portfolio](https://helder.dev) (coming soon)  
 
 ---
